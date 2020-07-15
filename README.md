@@ -64,15 +64,3 @@ Open NetBeans (or other IDE) and run the project. Make sure the file MySQLTest.j
 <p align="center">
 <img width="400" height="400" src="Screenshotjdoe.png">
 </p>
-
-# Built With
-- [NetBeans](https://netbeans.org): Fits the pieces together.
-
-- [MySQL](https://www.mysql.com): The world's most popular open source database.
-
-- [XAMPP](https://www.apachefriends.org/pt_br/index.html): Installers and Downloaders for Apache Friends.
-
-# References
-- Interfaces gráficas com Swing. Caelum. Available at: [https://www.caelum.com.br/apostila-java-testes-xml-design-patterns/interfaces-graficas-com-swing/](https://www.caelum.com.br/apostila-java-testes-xml-design-patterns/interfaces-graficas-com-swing/). Access on January, 2020.
- 
-- Java Swing: Conheça os componentes JTextField e JFormattedTextField. DevMedia. Available at: [https://www.devmedia.com.br/java-swing-conheca-os-componentes-jtextfield-e-jformattedtextfield/30981](https://www.devmedia.com.br/java-swing-conheca-os-componentes-jtextfield-e-jformattedtextfield/30981). Access on January, 2020.
