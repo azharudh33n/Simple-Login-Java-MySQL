@@ -18,7 +18,7 @@ To run this project, you'll need to have a basic environment to run a Java, MySQ
 
 Cloning the Repository
 
-    $ git clone https://github.com/awcasella/Simple-Login-Java-MySQL.git
+    $ git clone https://github.com/azharudh33n/Simple-Login-Java-MySQL
 
     $ cd Simple-Login-Java-MySQL
   
